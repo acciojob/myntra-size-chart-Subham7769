@@ -1,2 +1,29 @@
-
 /* Your CSS Code here. */
+th{
+    background-color:#c0504d ;
+    text-align: left;
+    padding: 0 60px 0 0;
+    color: white;
+}
+.tr-1{
+    background-color: #da9694;
+    color: white;
+}
+.tr-2{
+    background-color: #f2dcdb;
+    color: black;
+}
+.tr-3{
+    background-color: #d9d9d9;
+    color: black;
+}
+.td-1{
+    text-align: left;
+    padding: 0 60px 0 0;
+}
+td{
+    text-align: right;
+}
+table,tr,th,td{
+    border: 1px solid black;
+}
